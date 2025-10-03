@@ -1,0 +1,15 @@
+body{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: rgb(68, 0, 255);
+    background-color: rgb(255, 0, 123);
+}
+h2{
+    border: 4px dotted rgb(195, 192, 255);
+}
+a{
+    color: #339964;
+    text-decoration: none;
+}
